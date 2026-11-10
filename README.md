@@ -4,18 +4,6 @@ Autonomous multi-tier campus dining & waste platform built on Java 21 LTS & MySQ
 
 ---
 
-## Key Operational Metrics
-
-| Metric | Baseline | MealSynx Optimized | Impact / Outcome |
-| :--- | :---: | :---: | :--- |
-| **Campus Food Waste** | 16.5% | **6.0%** | **-63.6% reduction** in prepared food waste |
-| **Peak Queue Wait Time** | 18.5 mins | **5.2 mins** | **-71.9% reduction** via advance pre-orders & load balancing |
-| **Multi-Canteen Occupancy** | 95% / 40% | **72% / 68%** | Autonomous load re-distribution across dining halls |
-| **Inventory Shortage Incidents** | 14 / month | **1 / month** | Automated BOM explosion & safety stock reorder thresholds |
-| **REST API Latency** | — | **< 4.5 ms** | Sub-5ms response time across all JSON operational endpoints |
-
----
-
 ## Problem & Campus Dining Dilemma
 
 High-density academic micro-cities serve thousands of students, faculty, and staff daily across narrow 45-minute lunch breaks:
