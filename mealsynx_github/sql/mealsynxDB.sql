@@ -1,10 +1,3 @@
--- ============================================================================
--- MEALSYNX COMPLETE MYSQL 8.4 LTS DATABASE SETUP
--- Connection Name : mealsynxf4a
--- Database Name   : mealsynx
--- Authors         : D Raghuram (RA2511027040004) & B Likith Adhithya (RA2511027040022)
--- ============================================================================
-
 CREATE DATABASE IF NOT EXISTS mealsynx CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE mealsynx;
 
