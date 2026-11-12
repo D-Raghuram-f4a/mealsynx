@@ -112,3 +112,10 @@ The database schema is fully normalized to Third Normal Form (3NF) and contains 
   * **Contributions:** Strategy Pattern Simulation Engine, Core Java 21 Services, MySQL 8.4 Relational Architecture & Big Data (Spark/Kafka) Pipeline.
 * **B. Likith Adhithya** (Register Number: `RA2511027040022`)
   * **Contributions:** Version Control (Git), Mobile Application Architecture (Kotlin), User Interface (UI) Design & Full-Stack Implementation Support.
+    
+---
+
+## Academic Demo & Security Note
+
+* **Password Hashing Readiness:** The `users` table defines a `password_hash` column to support future cryptographic security. Because this build was developed as an academic project demonstration, unhashed demo credentials are used in the seed data for quick local testing, with salted password hashing (`SHA-256` / `BCrypt`) planned as an upcoming enhancement.
+* **Pre-Filled Login & Input Defaults:** For smoother live evaluations, the login screen and form fields come pre-populated with default demo credentials and sample values. These can be easily turned off for production use by clearing the default field initializers and helper values in the UI source code.
