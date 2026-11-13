@@ -19,7 +19,7 @@ MealSynx resolves this through an autonomous, closed-loop software pipeline conn
 
 All original, uncompressed high-resolution application screenshots and operational dashboard captures from the live runtime environment are available in the project cloud drive:
 
-👉 **Google Drive Screenshot Repository:** https://www.google.com/search?q=https://drive.google.com/drive/folders/1WU5mLa1a5kv9KuL4wuhrsInbJYXuqK\_C%3Fusp%3Ddrive\_link
+👉 **Google Drive Screenshot Repository:** https://drive.google.com/drive/folders/1WU5mLa1a5kv9KuL4wuhrsInbJYXuqK_C
 
 ---
 
