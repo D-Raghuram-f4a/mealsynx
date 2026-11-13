@@ -76,7 +76,7 @@ The database schema is fully normalized to Third Normal Form (3NF) and contains 
 
 ### Step 1: Initialize Database in MySQL Workbench 8.0
 1. Open MySQL Workbench 8.0 and connect to your local MySQL instance (`localhost:3306`).
-2. Open `sql/mealsynx_mysql84_workbench.sql`.
+2. Open `sql/mealsynxDB.sql`.
 3. Click the lightning bolt icon (⚡ Execute) to create the `mealsynx` database, 12 relational tables, foreign key constraints, and campus seed records.
 
 ### Step 2: Open Project in IntelliJ IDEA
