@@ -119,3 +119,9 @@ The database schema is fully normalized to Third Normal Form (3NF) and contains 
 
 * **Password Hashing Readiness:** The `users` table defines a `password_hash` column to support future cryptographic security. Because this build was developed as an academic project demonstration, unhashed demo credentials are used in the seed data for quick local testing, with salted password hashing (`SHA-256` / `BCrypt`) planned as an upcoming enhancement.
 * **Pre-Filled Login & Input Defaults:** For smoother live evaluations, the login screen and form fields come pre-populated with default demo credentials and sample values. These can be easily turned off for production use by clearing the default field initializers and helper values in the UI source code.
+
+---
+
+## Next Version: MealSynx V2
+
+Looking for the upgraded version? Check out **[MealSynx V2](https://github.com/D-Raghuram-f4a/mealsynx-v2)**, featuring Kotlin 1.9 mobile client DTOs, a 5-aspect NLP sentiment analyzer, natural language "What-If" simulation parsing, thread-safe JDBC connection pooling with binary failover, and salted SHA-256 authentication.
